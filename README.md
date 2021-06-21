@@ -44,7 +44,7 @@ At the end, our model has an outstanding performance on the traning data (due to
 
 # Presentation pictures
 
-![5c7709e1-dafe-41d0-ae42-b250d1a2a03e](https://user-images.githubusercontent.com/63654846/122800671-35d25600-d291-11eb-938c-c7f311278923.jpg)
 ![35e8e755-f1d6-4658-963f-cfd78b286cf1](https://user-images.githubusercontent.com/63654846/122800672-366aec80-d291-11eb-98a3-815a34028722.jpg)
 ![210ba7ac-1c24-4402-baea-463737e1d4dd](https://user-images.githubusercontent.com/63654846/122800674-366aec80-d291-11eb-9db7-3c1997c014ed.jpg)
 ![da9632a0-3693-47b9-b3bb-78b522afb3fb](https://user-images.githubusercontent.com/63654846/122800675-366aec80-d291-11eb-9c62-904c515fc3fc.jpg)
+![5c7709e1-dafe-41d0-ae42-b250d1a2a03e](https://user-images.githubusercontent.com/63654846/122800671-35d25600-d291-11eb-938c-c7f311278923.jpg)
