@@ -20,7 +20,7 @@ At the end, our model has an outstanding performance on the traning data (due to
 
 
 # Team 2
-> <i><br>Felipe Domingues
+> <i>Felipe Domingues
 > <br>Manuel Echazarra
 > <br>Nicola Bini
 > <br>Tri Dung Dinh
