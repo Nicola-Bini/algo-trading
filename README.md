@@ -5,12 +5,12 @@ This work is part of our course <b>"Algorithmic trading with Python"</b> at <b>H
 
 Our team had around 4 days to dedicate to this project, during this time we had to:
 
-<ul>
+<ol>
   <li>Get to know each other</li>
   <li>Come up with a trading strategy</li>
   <li>Find a way a to implement it in Python</li>
   <li>Backtest it and compared to a benchmark strategy</li>
-</ul>
+</ol>
 
 
 # Conclusions
