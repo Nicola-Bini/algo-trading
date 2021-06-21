@@ -38,3 +38,5 @@ At the end, our model has an outstanding performance on the traning data (due to
 # Performance of the LSTM model on testing data
 ![Screenshot 2021-06-17 at 3 58 18 PM](https://user-images.githubusercontent.com/63654846/122464528-f3550480-cf84-11eb-9e8b-8328f3bdd0aa.png)
 
+# Performance of all the tested models on testing data
+<img width="954" alt="Screenshot 2021-06-21 at 12 59 35 PM" src="https://user-images.githubusercontent.com/63654846/122800109-8bf2c980-d290-11eb-8fd9-c07e29b88dfd.png">
