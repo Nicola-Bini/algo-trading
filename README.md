@@ -27,16 +27,16 @@ At the end, our model has an outstanding performance on the traning data (due to
 > </i>
 
 # Stocks traded
-![Screenshot 2021-06-17 at 3 53 46 PM](https://user-images.githubusercontent.com/63654846/122463914-35ca1180-cf84-11eb-8cbb-beadf05ba7e9.png)
+![Screenshot 2021-06-17 at 3 53 46 PM](https://user-images.githubusercontent.com/63654846/122463914-35ca1180-cf84-11eb-8cbb-beadf05ba7e9.png)<br>
 
 # LSTM model
-![Screenshot 2021-06-17 at 3 54 34 PM](https://user-images.githubusercontent.com/63654846/122464136-7e81ca80-cf84-11eb-89c8-a18c905ba689.png)
+![Screenshot 2021-06-17 at 3 54 34 PM](https://user-images.githubusercontent.com/63654846/122464136-7e81ca80-cf84-11eb-89c8-a18c905ba689.png)<br>
 
 # Performance of the LSTM model on training data
-![Screenshot 2021-06-17 at 3 58 18 PM](https://user-images.githubusercontent.com/63654846/122464559-fbad3f80-cf84-11eb-8319-f7e34f5fc5a9.png)
+![Screenshot 2021-06-17 at 3 58 18 PM](https://user-images.githubusercontent.com/63654846/122464559-fbad3f80-cf84-11eb-8319-f7e34f5fc5a9.png)<br>
 
 # Performance of the LSTM model on testing data
-![Screenshot 2021-06-17 at 3 58 18 PM](https://user-images.githubusercontent.com/63654846/122464528-f3550480-cf84-11eb-9e8b-8328f3bdd0aa.png)
+![Screenshot 2021-06-17 at 3 58 18 PM](https://user-images.githubusercontent.com/63654846/122464528-f3550480-cf84-11eb-9e8b-8328f3bdd0aa.png)<br>
 
 # Performance of all the tested models on testing data
-<img width="954" alt="Screenshot 2021-06-21 at 12 59 35 PM" src="https://user-images.githubusercontent.com/63654846/122800109-8bf2c980-d290-11eb-8fd9-c07e29b88dfd.png">
+<img width="954" alt="Screenshot 2021-06-21 at 12 59 35 PM" src="https://user-images.githubusercontent.com/63654846/122800109-8bf2c980-d290-11eb-8fd9-c07e29b88dfd.png"><br>
