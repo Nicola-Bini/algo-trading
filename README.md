@@ -13,7 +13,7 @@ Our team had around 4 days to dedicate to this project, during this time we had 
 </ol>
 
 
-# Conclusions
+# Findings
 We decided to implement an LSTM model and combine its recommendation with the sentiment analysis on the tweets. In particular we decided to follow the recommendation provided by the LTSM only when the sentiment analysis was recommending the same (either buy or sell). If the 2 models did not agree with each other we would just close all the current positions and take any other position until they agreed with each other again.
 
 At the end, our model had an outstanding performance on the traning data (due to overfitting) and a poor performance in the testing data (compared to benchmark strategy of buying and holding the assets). However, combining the LSTM model with the sentiment analysis allowed us to achieve a better performance than either of the models taken alone.
