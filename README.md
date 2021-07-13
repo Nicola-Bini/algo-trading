@@ -19,7 +19,7 @@ We decided to implement an LSTM model and combine its recommendation with the se
 At the end, our model had an outstanding performance on the traning data (due to overfitting) and a poor performance in the testing data (compared to benchmark strategy of buying and holding the assets). However, combining the LSTM model with the sentiment analysis allowed us to achieve a better performance than either of the models taken alone.
 
 
-# Team 2
+# Team
 > <i>Felipe Domingues
 > <br>Manuel Echazarra
 > <br>Nicola Bini
